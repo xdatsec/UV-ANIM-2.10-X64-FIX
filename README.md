@@ -6,6 +6,10 @@ This patch restores the correct handling of UV animation data by updating the af
 0x25E598 – 0x25E5E8
 0x25F49C – 0x25F4E8
 The fix corrects the UVAnim data reads required for the animation system to properly process and apply UV transformations.
+
+modified functions
+RpMaterialUVAnimApplyUpdate
+RpMaterialUVAnimApplyUpdate
 Affected version: GTA SA Mobile 2.10
 Architecture: ARM64 / 64-bit
 
