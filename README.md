@@ -9,7 +9,7 @@ The fix corrects the UVAnim data reads required for the animation system to prop
 
 modified functions
 RpMaterialUVAnimApplyUpdate
-RpMaterialUVAnimApplyUpdate
+RpUVAnimParamKeyFrameApply
 Affected version: GTA SA Mobile 2.10
 Architecture: ARM64 / 64-bit
 
